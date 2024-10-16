@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepak Kumar R, BE CSE Undergrad at SSN,Chennai
-- 👀 I’m interested in technologies revolving around computer science particularly SQL, Mobile/Web Development
+- 👀 I’m interested in technologies revolving around computer science. My favourite concepts: DBMS, OOPS, SQL, Mobile/Web Development
 - 🌱 I’m currently learning web/mobile development
 - 💞️ I’m looking to collaborate on projects that help me grow personally and professionally
 - 📫 How to reach me - deepu082010@gmail.com
